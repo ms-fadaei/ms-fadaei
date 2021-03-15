@@ -1,0 +1,6 @@
+- 👋 Hi, I'm Mohammad Saleh Fadaei.
+- 🏠 I'm living in Iran, Rasht.
+- 🎓 I have a bachelor's degree in software engineering.
+- 👀 I'm interested in Front-End development.
+- 🌱 I'm currently learning javascript and all things that relative to it.
+- 💞️ I'm looking to collaborate on developing Front-End open-source programming.
