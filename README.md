@@ -14,6 +14,7 @@ I'm a Front-End Developer from IRAN.
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Image Optimization](https://virgool.io/@ms.fadaei/%D8%A8%D9%87%D8%A8%D9%88%D8%AF-%DA%A9%D8%A7%D8%B1%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1-%D9%81%D8%B1%D8%A7%D9%86%D8%AA-%D8%A7%D9%86%D8%AF-%D8%A8%D8%AE%D8%B4-3-ynx5rxjgfe8h)
 - [Link Prefetching](https://virgool.io/@ms.fadaei/%D8%A8%D9%87%D8%A8%D9%88%D8%AF-%DA%A9%D8%A7%D8%B1%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1-%D9%81%D8%B1%D8%A7%D9%86%D8%AA-%D8%A7%D9%86%D8%AF-%D8%A8%D8%AE%D8%B4-2-rsk44ekd1bfb)
 - [HTML Minification](https://virgool.io/@ms.fadaei/%D8%A8%D9%87%D8%A8%D9%88%D8%AF-%DA%A9%D8%A7%D8%B1%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1-%D9%81%D8%B1%D8%A7%D9%86%D8%AA-%D8%A7%D9%86%D8%AF-%D8%A8%D8%AE%D8%B4-1-rqvcmqh0pwnk)
 <!-- BLOG-POST-LIST:END -->
