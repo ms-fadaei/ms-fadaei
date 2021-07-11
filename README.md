@@ -12,6 +12,9 @@ I'm a Front-End Developer from IRAN.
 
 ![Marko Denic's Github Stats](https://github-readme-stats.vercel.app/api?username=ms-fadaei&theme=prussian)
 
+### Latest Gists
+- [Debug TTFB Like Google](https://gist.github.com/ms-fadaei/d2645b461f008dd96036165e0433e454)
+
 ### Latest Posts (in Persion 🇮🇷)
 <!-- BLOG-POST-LIST:START -->
 - [HTTP E2E Compression](https://virgool.io/@ms.fadaei/%D8%A8%D9%87%D8%A8%D9%88%D8%AF-%DA%A9%D8%A7%D8%B1%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1-%D9%81%D8%B1%D8%A7%D9%86%D8%AA-%D8%A7%D9%86%D8%AF-%D8%A8%D8%AE%D8%B4-6-x1zsp1rfu3u4)
