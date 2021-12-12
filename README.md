@@ -1,4 +1,4 @@
-![Repository Cover](cover.png)
+<img src="./cover.png" width="1001" height="333" style="width: 100%; height: auto"/>
 
 [![](https://img.shields.io/badge/google-%230077B5.svg?&style=for-the-badge&logo=google&logoColor=white&color=ea4335)](https://g.dev/saleh) 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/ms-fadaei/)
