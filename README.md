@@ -1,16 +1,18 @@
 ![Repository Cover](cover.png)
 
+[![](https://img.shields.io/badge/google-%230077B5.svg?&style=for-the-badge&logo=google&logoColor=white&color=ea4335)](https://g.dev/saleh) 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/ms-fadaei/)
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/ms_fadaei) 
 [![](https://img.shields.io/badge/virgool-%230077B5.svg?&style=for-the-badge&color=0B6BB2)](https://virgool.io/@ms.fadaei)
 
-# Hi! 👋 I'm [Mohammad Saleh Fadaei](https://github.com/ms-fadaei) 💻
+I'm [Mohammad Saleh Fadaei](https://github.com/ms-fadaei), a Front-End Developer from IRAN.
 
-I'm a Front-End Developer from IRAN.
+<img src="https://github-readme-stats.vercel.app/api?username=ms-fadaei&theme=algolia" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-fadaei&layout=compact&theme=algolia" height="180" />
 
-## ⚡ Github Stats
-
-![Marko Denic's Github Stats](https://github-readme-stats.vercel.app/api?username=ms-fadaei&theme=prussian)
+### Latest Repositories
+- [async-tasks-runner](https://github.com/ms-fadaei/async-tasks-runner)
+- [nuxt-browser-console](https://github.com/ms-fadaei/nuxt-browser-console)
+- [Front-End-Performance-Checklist](https://github.com/ms-fadaei/Front-End-Performance-Checklist)
 
 ### Latest Gists
 - [V8 --help | V8 engine options and flags in CMD](https://gist.github.com/ms-fadaei/44ccfa611bf01c1cc8aca598b1349df0)
