@@ -19,6 +19,10 @@ I'm [Mohammad Saleh Fadaei](https://github.com/ms-fadaei), a Front-End Developer
 - [V8 --help | V8 engine options and flags in CMD](https://gist.github.com/ms-fadaei/44ccfa611bf01c1cc8aca598b1349df0)
 - [Debug TTFB Like Google](https://gist.github.com/ms-fadaei/d2645b461f008dd96036165e0433e454)
 
+### Latest Mini/Sample Projects
+- [simpledsheet - A simple implementation of the standard spreadsheet](https://github.com/ms-fadaei/simpledsheet)
+- [wordlemple - A simple implementation of the Wordle game](https://github.com/ms-fadaei/wordlemple)
+
 ### Latest Posts (in Persian 🇮🇷)
 <!-- BLOG-POST-LIST:START -->
 - [HTTP E2E Compression](https://virgool.io/@ms.fadaei/%D8%A8%D9%87%D8%A8%D9%88%D8%AF-%DA%A9%D8%A7%D8%B1%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1-%D9%81%D8%B1%D8%A7%D9%86%D8%AA-%D8%A7%D9%86%D8%AF-%D8%A8%D8%AE%D8%B4-6-x1zsp1rfu3u4)
