@@ -21,8 +21,8 @@ I'm [Mohammad Saleh Fadaei](https://github.com/ms-fadaei), a Front-End Developer
 
 ### Latest Mini/Sample Projects
 - [Puztile - A simple tile puzzle game](https://github.com/ms-fadaei/puztile)
-- [simpledsheet - A simple implementation of the standard spreadsheet](https://github.com/ms-fadaei/simpledsheet)
-- [wordlemple - A simple implementation of the Wordle game](https://github.com/ms-fadaei/wordlemple)
+- [Simpledsheet - A simple implementation of the standard spreadsheet](https://github.com/ms-fadaei/simpledsheet)
+- [Wordlemple - A simple implementation of the Wordle game](https://github.com/ms-fadaei/wordlemple)
 
 ### Latest Posts (in Persian 🇮🇷)
 <!-- BLOG-POST-LIST:START -->
