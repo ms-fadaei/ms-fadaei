@@ -20,6 +20,7 @@ I'm [Mohammad Saleh Fadaei](https://github.com/ms-fadaei), a Front-End Developer
 - [Debug TTFB Like Google](https://gist.github.com/ms-fadaei/d2645b461f008dd96036165e0433e454)
 
 ### Latest Mini/Sample Projects
+- [Demine - A simple implementation of the old but gold Minesweeper game](https://github.com/ms-fadaei/demine)
 - [Puztile - A simple tile puzzle game](https://github.com/ms-fadaei/puztile)
 - [Simpledsheet - A simple implementation of the standard spreadsheet](https://github.com/ms-fadaei/simpledsheet)
 - [Wordlemple - A simple implementation of the Wordle game](https://github.com/ms-fadaei/wordlemple)
