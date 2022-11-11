@@ -5,17 +5,27 @@
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/ms_fadaei) 
 [![](https://img.shields.io/badge/virgool-%230077B5.svg?&style=for-the-badge&color=0B6BB2)](https://virgool.io/@ms.fadaei)
 
-I'm [Mohammad Saleh Fadaei](https://github.com/ms-fadaei), a Front-End Developer from IRAN.
+Hello Guys ✋ <br/>
+I'm [Mohammad Saleh Fadaei](https://github.com/ms-fadaei), a front-end Developer from IRAN 🇮🇷 <br/>
+Currently, I'm a front-end team leader at [Achareh](https://achareh.co) 💻 <br/>
+I know a lot of things about front-end development such as web APIs, web performance, etc. But eager to learn more because still know nothing!!! 😖 <br/>
+I am a fan of Vue and Nuxt and enjoy developing websites with them 😃 <br/>
+I enjoy developing open-source packages and being active in the front-end and Vue community 🕺
+
+<br />
 
 <img src="https://github-readme-stats.vercel.app/api?username=ms-fadaei&theme=algolia" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-fadaei&layout=compact&theme=algolia" height="180" />
 
 ### Latest Repositories
-- [ms-toolkit](https://github.com/ms-fadaei/ms-toolkit)
+- [iranian-vuejs-companies](https://github.com/ms-fadaei/iranian-vuejs-companies)
+- [@achareh/achar](https://github.com/achareh-co/achar)
 - [async-tasks-runner](https://github.com/ms-fadaei/async-tasks-runner)
 - [nuxt-browser-console](https://github.com/ms-fadaei/nuxt-browser-console)
 - [Front-End-Performance-Checklist](https://github.com/ms-fadaei/Front-End-Performance-Checklist)
 
 ### Latest Gists
+- [Web Vital Composable](https://gist.github.com/ms-fadaei/92b740d0fae0f11abead6d0a3ff475b1)
+- [Nuxt 2 Ultimate Cache](https://gist.github.com/ms-fadaei/3d081887d60a61b1a09a11f676810af7)
 - [V8 --help | V8 engine options and flags in CMD](https://gist.github.com/ms-fadaei/44ccfa611bf01c1cc8aca598b1349df0)
 - [Debug TTFB Like Google](https://gist.github.com/ms-fadaei/d2645b461f008dd96036165e0433e454)
 
